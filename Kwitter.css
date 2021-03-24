@@ -1,0 +1,16 @@
+body{
+background-color: blueviolet;
+text-align: center;
+}
+
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+.login_div
+{
+	background: rgba(112, 174, 245, 0.8);float: none;border-radius: 15px;
+}
+
